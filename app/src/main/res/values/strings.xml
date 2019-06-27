@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RainforestMiner</string>
+    <string-array name="algorithms">
+        <item>rainforest</item>
+        <item>sha256d</item>
+    </string-array>
+</resources>
